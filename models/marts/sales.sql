@@ -36,4 +36,4 @@ group by
     o.o_orderdate, 
     c.c_mktsegment
 
-
+-- Esto es un comentario para probar el job de CI
